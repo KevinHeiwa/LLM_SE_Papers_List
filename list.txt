@@ -1,3 +1,5 @@
+
+
 @misc{N2,
       title={Self-planning Code Generation with Large Language Models}, 
       author={Xue Jiang and Yihong Dong and Lecheng Wang and Zheng Fang and Qiwei Shang and Ge Li and Zhi Jin and Wenpin Jiao},
@@ -536,24 +538,7 @@
                   Daya Guo and
                   Shuo Ren and
                   Junjie Huang and
-                  Alexey Svyatkovskiy and
-                  Ambrosio Blanco and
-                  Colin B. Clement and
-                  Dawn Drain and
-                  Daxin Jiang and
-                  Duyu Tang and
-                  Ge Li and
-                  Lidong Zhou and
-                  Linjun Shou and
-                  Long Zhou and
-                  Michele Tufano and
-                  Ming Gong and
-                  Ming Zhou and
-                  Nan Duan and
-                  Neel Sundaresan and
-                  Shao Kun Deng and
-                  Shengyu Fu and
-                  Shujie Liu},
+                  others},
   editor       = {Joaquin Vanschoren and
                   Sai{-}Kit Yeung},
   title        = {CodeXGLUE: {A} Machine Learning Benchmark Dataset for Code Understanding
@@ -603,11 +588,7 @@
                   Bei Chen and
                   Dejian Yang and
                   Zeqi Lin and
-                  Minsu Kim and
-                  Bei Guan and
-                  Yongji Wang and
-                  Weizhu Chen and
-                  Jian{-}Guang Lou},
+                  others},
   editor       = {Luc De Raedt},
   title        = {{CERT:} Continual Pre-training on Sketches for Library-oriented Code
                   Generation},
@@ -671,15 +652,6 @@
                   Saikat Chakraborty and
                   Baishakhi Ray and
                   Kai{-}Wei Chang},
-  editor       = {Kristina Toutanova and
-                  Anna Rumshisky and
-                  Luke Zettlemoyer and
-                  Dilek Hakkani{-}T{\"{u}}r and
-                  Iz Beltagy and
-                  Steven Bethard and
-                  Ryan Cotterell and
-                  Tanmoy Chakraborty and
-                  Yichao Zhou},
   title        = {Unified Pre-training for Program Understanding and Generation},
   booktitle    = {Proceedings of the 2021 Conference of the North American Chapter of
                   the Association for Computational Linguistics: Human Language Technologies,
@@ -721,13 +693,6 @@
                   Aidan N. Gomez and
                   Lukasz Kaiser and
                   Illia Polosukhin},
-  editor       = {Isabelle Guyon and
-                  Ulrike von Luxburg and
-                  Samy Bengio and
-                  Hanna M. Wallach and
-                  Rob Fergus and
-                  S. V. N. Vishwanathan and
-                  Roman Garnett},
   title        = {Attention is All you Need},
   booktitle    = {Advances in Neural Information Processing Systems 30: Annual Conference
                   on Neural Information Processing Systems 2017, December 4-9, 2017,
@@ -805,37 +770,7 @@
                   Nick Ryder and
                   Melanie Subbiah and
                   Jared Kaplan and
-                  Prafulla Dhariwal and
-                  Arvind Neelakantan and
-                  Pranav Shyam and
-                  Girish Sastry and
-                  Amanda Askell and
-                  Sandhini Agarwal and
-                  Ariel Herbert{-}Voss and
-                  Gretchen Krueger and
-                  Tom Henighan and
-                  Rewon Child and
-                  Aditya Ramesh and
-                  Daniel M. Ziegler and
-                  Jeffrey Wu and
-                  Clemens Winter and
-                  Christopher Hesse and
-                  Mark Chen and
-                  Eric Sigler and
-                  Mateusz Litwin and
-                  Scott Gray and
-                  Benjamin Chess and
-                  Jack Clark and
-                  Christopher Berner and
-                  Sam McCandlish and
-                  Alec Radford and
-                  Ilya Sutskever and
-                  Dario Amodei},
-  editor       = {Hugo Larochelle and
-                  Marc'Aurelio Ranzato and
-                  Raia Hadsell and
-                  Maria{-}Florina Balcan and
-                  Hsuan{-}Tien Lin},
+                  others},
   title        = {Language Models are Few-Shot Learners},
   booktitle    = {Advances in Neural Information Processing Systems 33: Annual Conference
                   on Neural Information Processing Systems 2020, NeurIPS 2020, December
@@ -954,59 +889,7 @@
                   Daniel De Freitas and
                   Jamie Hall and
                   Noam Shazeer and
-                  Apoorv Kulshreshtha and
-                  Heng{-}Tze Cheng and
-                  Alicia Jin and
-                  Taylor Bos and
-                  Leslie Baker and
-                  Yu Du and
-                  YaGuang Li and
-                  Hongrae Lee and
-                  Huaixiu Steven Zheng and
-                  Amin Ghafouri and
-                  Marcelo Menegali and
-                  Yanping Huang and
-                  Maxim Krikun and
-                  Dmitry Lepikhin and
-                  James Qin and
-                  Dehao Chen and
-                  Yuanzhong Xu and
-                  Zhifeng Chen and
-                  Adam Roberts and
-                  Maarten Bosma and
-                  Yanqi Zhou and
-                  Chung{-}Ching Chang and
-                  Igor Krivokon and
-                  Will Rusch and
-                  Marc Pickett and
-                  Kathleen S. Meier{-}Hellstern and
-                  Meredith Ringel Morris and
-                  Tulsee Doshi and
-                  Renelito Delos Santos and
-                  Toju Duke and
-                  Johnny Soraker and
-                  Ben Zevenbergen and
-                  Vinodkumar Prabhakaran and
-                  Mark Diaz and
-                  Ben Hutchinson and
-                  Kristen Olson and
-                  Alejandra Molina and
-                  Erin Hoffman{-}John and
-                  Josh Lee and
-                  Lora Aroyo and
-                  Ravi Rajakumar and
-                  Alena Butryna and
-                  Matthew Lamm and
-                  Viktoriya Kuzmina and
-                  Joe Fenton and
-                  Aaron Cohen and
-                  Rachel Bernstein and
-                  Ray Kurzweil and
-                  Blaise Ag{\"{u}}era y Arcas and
-                  Claire Cui and
-                  Marian Croak and
-                  Ed H. Chi and
-                  Quoc Le},
+                  others},
   title        = {LaMDA: Language Models for Dialog Applications},
   journal      = {CoRR},
   volume       = {abs/2201.08239},
@@ -1024,69 +907,8 @@
                   Sharan Narang and
                   Jacob Devlin and
                   Maarten Bosma and
-                  Gaurav Mishra and
-                  Adam Roberts and
-                  Paul Barham and
-                  Hyung Won Chung and
-                  Charles Sutton and
-                  Sebastian Gehrmann and
-                  Parker Schuh and
-                  Kensen Shi and
-                  Sasha Tsvyashchenko and
-                  Joshua Maynez and
-                  Abhishek Rao and
-                  Parker Barnes and
-                  Yi Tay and
-                  Noam Shazeer and
-                  Vinodkumar Prabhakaran and
-                  Emily Reif and
-                  Nan Du and
-                  Ben Hutchinson and
-                  Reiner Pope and
-                  James Bradbury and
-                  Jacob Austin and
-                  Michael Isard and
-                  Guy Gur{-}Ari and
-                  Pengcheng Yin and
-                  Toju Duke and
-                  Anselm Levskaya and
-                  Sanjay Ghemawat and
-                  Sunipa Dev and
-                  Henryk Michalewski and
-                  Xavier Garcia and
-                  Vedant Misra and
-                  Kevin Robinson and
-                  Liam Fedus and
-                  Denny Zhou and
-                  Daphne Ippolito and
-                  David Luan and
-                  Hyeontaek Lim and
-                  Barret Zoph and
-                  Alexander Spiridonov and
-                  Ryan Sepassi and
-                  David Dohan and
-                  Shivani Agrawal and
-                  Mark Omernick and
-                  Andrew M. Dai and
-                  Thanumalayan Sankaranarayana Pillai and
-                  Marie Pellat and
-                  Aitor Lewkowycz and
-                  Erica Moreira and
-                  Rewon Child and
-                  Oleksandr Polozov and
-                  Katherine Lee and
-                  Zongwei Zhou and
-                  Xuezhi Wang and
-                  Brennan Saeta and
-                  Mark Diaz and
-                  Orhan Firat and
-                  Michele Catasta and
-                  Jason Wei and
-                  Kathy Meier{-}Hellstern and
-                  Douglas Eck and
-                  Jeff Dean and
-                  Slav Petrov and
-                  Noah Fiedel},
+                  others                
+                 },
   title        = {PaLM: Scaling Language Modeling with Pathways},
   journal      = {CoRR},
   volume       = {abs/2204.02311},
@@ -1118,7 +940,7 @@ series = {MAPS 2022}
 }
 
 @article{N83,
-author = {Yujia Li  and David Choi  and Junyoung Chung  and Nate Kushman  and Julian Schrittwieser  and Rémi Leblond  and Tom Eccles  and James Keeling  and Felix Gimeno  and Agustin Dal Lago  and Thomas Hubert  and Peter Choy  and Cyprien de Masson d’Autume  and Igor Babuschkin  and Xinyun Chen  and Po-Sen Huang  and Johannes Welbl  and Sven Gowal  and Alexey Cherepanov  and James Molloy  and Daniel J. Mankowitz  and Esme Sutherland Robson  and Pushmeet Kohli  and Nando de Freitas  and Koray Kavukcuoglu  and Oriol Vinyals },
+author = {Yujia Li  and David Choi  and Junyoung Chung  and Nate Kushman  and Julian Schrittwieser  and others },
 title = {Competition-level code generation with AlphaCode},
 journal = {Science},
 volume = {378},
@@ -1158,28 +980,7 @@ eprint = {https://www.science.org/doi/pdf/10.1126/science.abq1158},
                   Naman Goyal and
                   Todor Mihaylov and
                   Myle Ott and
-                  Sam Shleifer and
-                  Xi Victoria Lin and
-                  Jingfei Du and
-                  Srinivasan Iyer and
-                  Ramakanth Pasunuru and
-                  Giridharan Anantharaman and
-                  Xian Li and
-                  Shuohui Chen and
-                  Halil Akin and
-                  Mandeep Baines and
-                  Louis Martin and
-                  Xing Zhou and
-                  Punit Singh Koura and
-                  Brian O'Horo and
-                  Jeffrey Wang and
-                  Luke Zettlemoyer and
-                  Mona T. Diab and
-                  Zornitsa Kozareva and
-                  Veselin Stoyanov},
-  editor       = {Yoav Goldberg and
-                  Zornitsa Kozareva and
-                  Yue Zhang},
+                  others},
   title        = {Efficient Large Scale Language Modeling with Mixtures of Experts},
   booktitle    = {Proceedings of the 2022 Conference on Empirical Methods in Natural
                   Language Processing, {EMNLP} 2022, Abu Dhabi, United Arab Emirates,
@@ -1205,40 +1006,8 @@ eprint = {https://www.science.org/doi/pdf/10.1126/science.abq1158},
                   Xiaozhe Ren and
                   Teng Su and
                   Hui Wang and
-                  Yi Liao and
-                  Zhiwei Wang and
-                  Xin Jiang and
-                  ZhenZhang Yang and
-                  Kaisheng Wang and
-                  Xiaoda Zhang and
-                  Chen Li and
-                  Ziyan Gong and
-                  Yifan Yao and
-                  Xinjing Huang and
-                  Jun Wang and
-                  Jianfeng Yu and
-                  Qi Guo and
-                  Yue Yu and
-                  Yan Zhang and
-                  Jin Wang and
-                  Hengtao Tao and
-                  Dasen Yan and
-                  Zexuan Yi and
-                  Fang Peng and
-                  Fangqing Jiang and
-                  Han Zhang and
-                  Lingfeng Deng and
-                  Yehong Zhang and
-                  Zhe Lin and
-                  Chao Zhang and
-                  Shaojie Zhang and
-                  Mingyue Guo and
-                  Shanzhi Gu and
-                  Gaojun Fan and
-                  Yaowei Wang and
-                  Xuefeng Jin and
-                  Qun Liu and
-                  Yonghong Tian},
+                  others
+                  },
   title        = {PanGu-{\(\alpha\)}: Large-scale Autoregressive Pretrained Chinese
                   Language Models with Auto-parallel Computation},
   journal      = {CoRR},
@@ -1336,15 +1105,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Gautier Izacard and
                   Xavier Martinet and
                   Marie{-}Anne Lachaux and
-                  Timoth{\'{e}}e Lacroix and
-                  Baptiste Rozi{\`{e}}re and
-                  Naman Goyal and
-                  Eric Hambro and
-                  Faisal Azhar and
-                  Aur{\'{e}}lien Rodriguez and
-                  Armand Joulin and
-                  Edouard Grave and
-                  Guillaume Lample},
+                  others},
   title        = {LLaMA: Open and Efficient Foundation Language Models},
   journal      = {CoRR},
   volume       = {abs/2302.13971},
@@ -1433,19 +1194,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Caio C{\'{e}}sar Teodoro Mendes and
                   Allie Del Giorno and
                   Sivakanth Gopi and
-                  Mojan Javaheripi and
-                  Piero Kauffmann and
-                  Gustavo de Rosa and
-                  Olli Saarikivi and
-                  Adil Salim and
-                  Shital Shah and
-                  Harkirat Singh Behl and
-                  Xin Wang and
-                  S{\'{e}}bastien Bubeck and
-                  Ronen Eldan and
-                  Adam Tauman Kalai and
-                  Yin Tat Lee and
-                  Yuanzhi Li},
+                  others},
   title        = {Textbooks Are All You Need},
   journal      = {CoRR},
   volume       = {abs/2306.11644},
@@ -1474,14 +1223,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Loubna Ben Allal and
                   Jia Li and
                   Chenghao Mou and
-                  Carlos Mu{\~{n}}oz Ferrandis and
-                  Yacine Jernite and
-                  Margaret Mitchell and
-                  Sean Hughes and
-                  Thomas Wolf and
-                  Dzmitry Bahdanau and
-                  Leandro von Werra and
-                  Harm de Vries},
+                  others},
   title        = {The Stack: 3 {TB} of permissively licensed source code},
   journal      = {CoRR},
   volume       = {abs/2211.15533},
@@ -1617,31 +1359,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Nicolas Patry and
                   Pierric Cistac and
                   Pete and
-                  Funtowicz Morgan and
-                  Sebastian Pütz and
-                  Mishig and
-                  Bjarte Johansen and
-                  Thomas Wolf and
-                  Sylvain Gugger and
-                  Clement and
-                  Julien Chaumond and
-                  Lysandre Debut and
-                  François Garillot and
-                  Luc Georges and
-                  dctelus and
-                  JC Louis and
-                  MarcusGrass and
-                  Taufiquzzaman Peyash and
-                  0xflotus and
-                  Alan deLevie and
-                  Alexander Mamaev and
-                  Arthur and
-                  Cameron and
-                  Colin Clement and
-                  Dagmawi Moges and
-                  David Hewitt and
-                  Denis Zolotukhin and
-                  Geoffrey Thomas},
+                  others},
   title        = {huggingface/tokenizers: Rust 0.13.2},
   month        = nov,
   year         = 2022,
@@ -1656,10 +1374,6 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Omer Levy and
                   Yinhan Liu and
                   Luke Zettlemoyer},
-  editor       = {Kentaro Inui and
-                  Jing Jiang and
-                  Vincent Ng and
-                  Xiaojun Wan},
   title        = {Mask-Predict: Parallel Decoding of Conditional Masked Language Models},
   booktitle    = {Proceedings of the 2019 Conference on Empirical Methods in Natural
                   Language Processing and the 9th International Joint Conference on
@@ -1682,32 +1396,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
                   Abhishek Thakur and
                   Patrick von Platen and
                   Suraj Patil and
-                  Julien Chaumond and
-                  Mariama Drame and
-                  Julien Plu and
-                  Lewis Tunstall and
-                  Joe Davison and
-                  Mario Sasko and
-                  Gunjan Chhablani and
-                  Bhavitvya Malik and
-                  Simon Brandeis and
-                  Teven Le Scao and
-                  Victor Sanh and
-                  Canwen Xu and
-                  Nicolas Patry and
-                  Angelina McMillan{-}Major and
-                  Philipp Schmid and
-                  Sylvain Gugger and
-                  Cl{\'{e}}ment Delangue and
-                  Th{\'{e}}o Matussi{\`{e}}re and
-                  Lysandre Debut and
-                  Stas Bekman and
-                  Pierric Cistac and
-                  Thibault Goehringer and
-                  Victor Mustar and
-                  Fran{\c{c}}ois Lagunas and
-                  Alexander M. Rush and
-                  Thomas Wolf},
+                  others},
   editor       = {Heike Adel and
                   Shuming Shi},
   title        = {Datasets: {A} Community Library for Natural Language Processing},
@@ -1840,7 +1529,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
 
 @misc{N122,
       title={Multi-lingual Evaluation of Code Generation Models}, 
-      author={Ben Athiwaratkun and Sanjay Krishna Gouda and Zijian Wang and Xiaopeng Li and Yuchen Tian and Ming Tan and Wasi Uddin Ahmad and Shiqi Wang and Qing Sun and Mingyue Shang and Sujan Kumar Gonugondla and Hantian Ding and Varun Kumar and Nathan Fulton and Arash Farahani and Siddhartha Jain and Robert Giaquinto and Haifeng Qian and Murali Krishna Ramanathan and Ramesh Nallapati and Baishakhi Ray and Parminder Bhatia and Sudipta Sengupta and Dan Roth and Bing Xiang},
+      author={Ben Athiwaratkun and Sanjay Krishna Gouda and Zijian Wang and Xiaopeng Li and others},
       year={2023},
       eprint={2210.14868},
       archivePrefix={arXiv},
@@ -1928,7 +1617,7 @@ url={https://openreview.net/forum?id=VPCi3STZcaO}
 
 @inproceedings{N132,
   title={{GPT-NeoX-20B}: An Open-Source Autoregressive Language Model},
-  author={Black, Sid and Biderman, Stella and Hallahan, Eric and Anthony, Quentin and Gao, Leo and Golding, Laurence and He, Horace and Leahy, Connor and McDonell, Kyle and Phang, Jason and Pieler, Michael and Prashanth, USVSN Sai and Purohit, Shivanshu and Reynolds, Laria and Tow, Jonathan and Wang, Ben and Weinbach, Samuel},
+  author={Black, Sid and Biderman, Stella and Hallahan, Eric and Anthony, Quentin and Gao, Leo and others},
   booktitle={Proceedings of the ACL Workshop on Challenges \& Perspectives in Creating Large Language Models},
   url={https://arxiv.org/abs/2204.06745},
   year={2022}
@@ -2133,4 +1822,12 @@ AquilaCode-multi}},
       eprint={2310.04406},
       archivePrefix={arXiv},
       primaryClass={cs.AI}
+}
+
+
+@article{N153,
+  title={Measuring Coding Challenge Competence With APPS},
+  author={Dan Hendrycks and Steven Basart and Saurav Kadavath and Mantas Mazeika and Akul Arora and Ethan Guo and Collin Burns and Samir Puranik and Horace He and Dawn Song and Jacob Steinhardt},
+  journal={NeurIPS},
+  year={2021}
 }
